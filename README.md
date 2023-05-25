@@ -1,15 +1,15 @@
 ### Hi there 👋, I am Nilufa Yeasmin
 #### Web Design & Web Development
-![Web Design & Web Development](https://github.com/niparkaz/niparkaz/blob/main/niparkaz.png06110985243)
+![Web Design & Web Development](https://github.com/niparkaz/niparkaz/blob/main/niparkaz.png)
 
 Hey! I'm Nilufa Yeasmin. I learn Web Design & Development. We love to learn new technologies and client satisfaction is my first priority.
 
-Skills:  HTML / CSS/BootStrap/Tailwind
+Skills:  HTML / CSS/ BootStrap/ Tailwind
 
-- 🔭 I’m currently working on eShikhon 
-- 🌱 I’m currently learning Web Design & Development 
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning   Web Design & Development 
 - 📫 How to reach me: nilufahosen1984@gmail.com 
-- ⚡ Fun fact: I think I am funny 
+- ⚡ Fun fact:  I think I am funny 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/niparkaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nilufahosen)  
@@ -20,7 +20,7 @@ Skills:  HTML / CSS/BootStrap/Tailwind
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niparkaz)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=niparkaz&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=niparkaz&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=niparkaz)  
 
